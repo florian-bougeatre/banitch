@@ -65,4 +65,13 @@
 		</plugins>
 	</build>
 
+	<developers>
+		<developer>
+			<id>flbo</id>
+			<name>Florian Bougeâtre</name>
+			<email>florian.bougeatre.pro@gmail.com</email>
+			<url>https://github.com/florian-bougeatre</url>
+		</developer>
+	</developers>
+
 </project>
