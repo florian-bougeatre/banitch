@@ -9,8 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.banitch</groupId>
-	<artifactId>banitch</artifactId>
+	<artifactId>banitch_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>WAR</packaging>
 	<name>Banitch</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

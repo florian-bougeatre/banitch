@@ -1,4 +1,4 @@
-package org.banitch.banitch;
+package org.banitch.banitch_app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
